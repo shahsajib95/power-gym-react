@@ -1,0 +1,19 @@
+.login{
+    background-color: #FFCB2B;
+}
+.signup{
+    padding: 10%;
+}
+.signup form{
+    max-width: 400px;
+    margin: 0 auto;
+}
+.error{
+    color: red;
+}
+.signup input{
+    width: 100%;
+}
+.signup .option label{
+    cursor: pointer;
+}

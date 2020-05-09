@@ -1,0 +1,53 @@
+.price-banner h1{
+    padding-top: 150px;
+}
+.main-button{
+    background-color: #FCD842;
+    padding: 15px 50px;
+    border: none;
+    cursor: pointer;
+}
+.main-button h2{
+    margin-bottom: 0 !important;
+}
+
+.price-box1 p, .price-box2 p, .price-box3 p{
+    margin-left: 10px;
+}
+.price-box1{
+    background-image: url('../../img/hipcravo-5UbIqV58CW8-unsplash.jpg');
+    background-size: 100%;
+}
+.price-box2{
+    background-image: url('../../img/daniel-apodaca-WdoQio6HPVA-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: 240%;
+}
+.price-box3{
+    background-image: url('../../img/penguinuhh-8VI6WwEEEHw-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: 120%;
+}
+.price-content{
+    z-index: 1;
+    color: white;
+  }
+.fas{
+    font-size: 20px;
+}
+.price-banner{
+    background-image: url("../../img/edgar-chaparro-sHfo3WOgGTU-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 500px;
+    background-size: 100%;
+    color: white;
+    text-align: justify;
+}
+.big-price{
+    font-size: 50px;
+}
+h1{
+    margin-top: 40%;
+}
+

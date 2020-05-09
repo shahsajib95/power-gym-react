@@ -1,0 +1,18 @@
+
+*{
+    font-family: 'Bebas Neue', cursive;
+}
+a{
+    color: white!important;
+    text-decoration: none!important;
+}
+#navbarNav{
+    margin-left: 20%;
+    font-size: 15px;
+}
+.navbar-light .navbar-nav .active>.nav-link{
+    color: yellow!important;
+}
+.navbar-expand-lg {
+    background-color: black!important;
+}

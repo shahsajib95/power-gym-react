@@ -1,0 +1,35 @@
+
+#progressbar li {
+    list-style-type: none;
+    font-size: 25px;
+    background-color: #AFAFAF;
+    padding: 10px 23px;
+    border-radius: 50px;
+    color: white;
+}
+
+#progressbar .actives {
+    background-color: #FCD842;
+}
+
+.dot {
+    background-color: none;
+    width: 100%;
+    border-top: 2px dotted;
+    top: 25px;
+    position: relative;
+}
+
+.form-control {
+    height: calc(2.0em + .75rem + 2px)!important;
+    border-radius: 0!important;
+}
+
+.custom-select {
+    height: calc(2.0em + .75rem + 2px)!important;
+    border-radius: 0!important;
+}
+
+.payment-box {
+    border: 1px solid;
+}

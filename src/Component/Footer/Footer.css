@@ -1,0 +1,10 @@
+.footer{
+    background-color: #171426;
+}
+.footer a{
+    color: white;
+    display: block;
+}
+.footer img{
+    margin-left: 10px;
+}
